@@ -1,18 +1,22 @@
-# Sudip Kotal - Portfolio Website
 
-A modern, responsive portfolio website built with React and Tailwind CSS.
 
-## Features
+# 🔥 Personal Portfolio Website
 
-- Responsive Design
-- Dark Mode Support
+This is my personal portfolio website built using **React** and **Tailwind CSS**. It showcases my projects, skills, resume, and contact information—all in a clean, modern, and responsive design.
+
+🚀 **Live Demo:** [https://sudipkotal.github.io/sudip-portfolio/](https://sudipkotal.github.io/sudip-portfolio/)
+
+## ✨ Features
+- Smooth scrolling and interactive UI  
+- Typewriter animation on the homepage  
+- Sections for About, Skills, Projects, and Contact  
+- Framer Motion 
+- Responsive design for all screen sizes
+-  Dark Mode Support
 - Typewriter Animation
-- Project Showcase
-- Skills Section
-- Contact Information
-- Social Media Integration
+- - Social Media Integration
 
-## Deployment Instructions
+---
 
 ### Prerequisites
 
@@ -21,62 +25,7 @@ A modern, responsive portfolio website built with React and Tailwind CSS.
 - Git
 - GitHub account
 - Vercel account
-
-### Local Development
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/sudip-portfolio.git
-cd sudip-portfolio
-```
-
-2. Install dependencies:
-```bash
-npm install
-# or
-yarn install
-```
-
-3. Start the development server:
-```bash
-npm start
-# or
-yarn start
-```
-
-### Deployment Steps
-
-1. Push your code to GitHub:
-```bash
-git add .
-git commit -m "Initial commit"
-git push origin main
-```
-
-2. Deploy to Vercel:
-   - Go to [Vercel](https://vercel.com)
-   - Sign in with your GitHub account
-   - Click "New Project"
-   - Import your repository
-   - Configure project settings:
-     - Framework Preset: Create React App
-     - Root Directory: ./
-     - Build Command: npm run build
-     - Output Directory: build
-   - Click "Deploy"
-
-3. After deployment:
-   - Vercel will provide you with a URL (e.g., https://your-portfolio.vercel.app)
-   - You can set up a custom domain in the Vercel dashboard
-   - Enable automatic deployments for continuous integration
-
-## Technologies Used
-
-- React
-- Tailwind CSS
-- React Icons
-- React Scroll
-- Framer Motion
+Thanks for visiting! 😄
 
 ## License
 
