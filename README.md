@@ -24,7 +24,9 @@ This is my personal portfolio website built using **React** and **Tailwind CSS**
 - npm or yarn
 - Git
 - GitHub account
-- Vercel account
+
+
+
 Thanks for visiting! 😄
 
 ## License
