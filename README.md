@@ -14,7 +14,7 @@ This is my personal portfolio website built using **React** and **Tailwind CSS**
 - Responsive design for all screen sizes
 -  Dark Mode Support
 - Typewriter Animation
-- - Social Media Integration
+-  Social Media Integration
 
 ---
 
