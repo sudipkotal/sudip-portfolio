@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sudip-portfolio/static/css/main.bb32b651.css",
+    "main.js": "/sudip-portfolio/static/js/main.d209cad6.js",
+    "static/js/488.59710bf0.chunk.js": "/sudip-portfolio/static/js/488.59710bf0.chunk.js",
+    "index.html": "/sudip-portfolio/index.html",
+    "main.bb32b651.css.map": "/sudip-portfolio/static/css/main.bb32b651.css.map",
+    "main.d209cad6.js.map": "/sudip-portfolio/static/js/main.d209cad6.js.map",
+    "488.59710bf0.chunk.js.map": "/sudip-portfolio/static/js/488.59710bf0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb32b651.css",
+    "static/js/main.d209cad6.js"
+  ]
+}
